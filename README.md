@@ -20,7 +20,7 @@ Currently, I'm a [@GlobalworkSAS](https://github.com/GlobalworkSAS)  Team Member
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Software Backend and DevOps Enginner with [@GlobalworkSAS](https://https://github.com/GlobalworkSAS);
+- 👨🏽‍💻 I’m currently a Software Backend and DevOps Enginner with [@GlobalworkSAS](https://https://github.com/GlobalworkSAS);
 - 🌱 I’m learning more about DevOps and Data Analysis and Machine Learning; 
 - 🤔 My interests are with Data Analysis, Machine Learning, DevSecOps, Software Architecture, etc..;
 - 💼 I’m pursuing my dream to be an entrepreneur;
