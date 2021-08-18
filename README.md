@@ -1,4 +1,4 @@
-### Hey 👋, I'm Marco
+### Hey 👋
 
 <a href="https://www.linkedin.com/in/metm/">
   <img align="left" alt="Marco's LinkdeIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
