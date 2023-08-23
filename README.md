@@ -15,12 +15,12 @@
 
 Hi there, I'm **Marco Tzuc**, a **Backend Software Engineer** and a **DevOps student** 🚀 from Mérida, Mexico, living in Medellín, Colombia.
 <br />
-Currently, I'm a [@GlobalworkSAS](https://github.com/GlobalworkSAS)  Team Member 🙍🏽‍
+Currently, I'm a Team Member 🙍🏽‍
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Software Backend and DevOps Enginner with [@GlobalworkSAS](https://https://github.com/GlobalworkSAS);
+- 👨🏽‍💻 I’m currently a Software Backend Engineer
 - 🌱 I’m learning more about DevOps and Data Analysis and Machine Learning; 
 - 🤔 My interests are with Data Analysis, Machine Learning, DevSecOps, Software Architecture, etc..;
 - 💼 I’m pursuing my dream to be an entrepreneur;
