@@ -48,5 +48,3 @@ Linkedin: [Marcos Tzuc](https://www.linkedin.com/in/metm/)
 <!--END_SECTION:waka-->
 
 
-![Marco's github stats](https://github-readme-stats.vercel.app/api?username=mirzoz&show_icons=true&hide_border=true)
-
