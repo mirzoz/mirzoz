@@ -29,15 +29,6 @@ Currently, I'm learning about Software Architecture 🙍🏽‍
 - 📝 I love to learn so invite me to meetups.
 
 
-### Hi there 👋
-
-My name is Jose Abel Ramirez Frontany, I'm a Full Stack Web Development, specialized in Rails React Framework.
-
-- 🔭 I’m currently learning new technologies
-- 🌱 I’m currently learning React Native, and the MERN stack.
-- 👯 I’m looking to collaborate on amazing and impactfull software projects
-- 📫 How to reach me:
-
 Linkedin: [Marcos Tzuc](https://www.linkedin.com/in/metm/)
 
 ## GitHub profile statistics (stars, commits, etc)
