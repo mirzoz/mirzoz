@@ -29,8 +29,6 @@ Currently, I'm learning about Software Architecture 🙍🏽‍
 - 📝 I love to learn so invite me to meetups.
 
 
-Linkedin: [Marcos Tzuc](https://www.linkedin.com/in/metm/)
-
 ## GitHub profile statistics (stars, commits, etc)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzoz&show_icons=true&theme=tokyonight)
